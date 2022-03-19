@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://dimaklan.github.io/rsschool-cv/cv

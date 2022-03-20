@@ -1,6 +1,4 @@
 # ***Dmitry Gritsuk***
-Alt-H1
-======
 
 ## **CONTACTS**
 * ***Email:*** *dima.klan.99@mail.ru*

@@ -12,10 +12,10 @@
 ## **CODE EXAMPLES**
 ```
 if(menuIcon.classList.contains('_active')){
-                document.body.classList.remove('_lock');
-                menuIcon.classList.remove('_active');
-                menuBody.classList.remove('_active');
-            }
+  document.body.classList.remove('_lock');
+  menuIcon.classList.remove('_active');
+  menuBody.classList.remove('_active');
+}
 ```              
 
 ## **SKILLS**

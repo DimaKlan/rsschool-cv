@@ -2,7 +2,7 @@
 [https://learn.javascript.ru/]: https://learn.javascript.ru/
 
 # ***Dmitry Gritsuk***
-***
+___
 
 ## **CONTACTS**
 * ***Email:*** *dima.klan.99@mail.ru*

@@ -1,4 +1,4 @@
-[DimaKlan]: https://github.com/DimaKlan
+<!-- [DimaKlan]: https://github.com/DimaKlan -->
 [https://learn.javascript.ru/]: https://learn.javascript.ru/
 
 # ***Dmitry Gritsuk***

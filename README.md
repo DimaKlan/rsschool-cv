@@ -7,3 +7,11 @@
 * Telegram: DimaKlan
 * Discord: DimaKlan
 * GitHub: [DimaKlan]
+
+
+## **SKILLS**
+* ***HTML***
+* ***CSS/SASS***
+* ***JS(BASIC+DOM)***
+* ***GIT(BASIC)***
+* ***FIGMA***

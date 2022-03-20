@@ -3,7 +3,7 @@
 # ***Dmitry Gritsuk***
 ## **CONTACTS**
 * ***Email:*** dima.klan.99@mail.ru
-* ***Telegram:*** DimaKlan
+* ***Telegram:*** @DimaKlan
 * ***Discord:*** DimaKlan
 * ***GitHub:*** [DimaKlan]
 ## **SKILLS**

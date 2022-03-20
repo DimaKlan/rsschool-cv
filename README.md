@@ -7,11 +7,12 @@
 * ***Discord:*** *DimaKlan*
 * ***GitHub:*** *[DimaKlan]*
 ## **SKILLS**
-* ***HTML***
-* ***CSS/SASS***
-* ***JS(BASIC+DOM)***
-* ***GIT(BASIC)***
-* ***FIGMA***
+* ***HTML5***
+* ***CSS3/SASS***
+* ***JS(Basic+DOM)***
+* ***GitHub***
+* ***VS Code***
+* ***Figma, PhotoShop, Illustrator***
 ## **EDUCATION**
 * ***University:*** *Brest State Technical University, Electronic Systems Engineer*
 ## **LANGUAGES**

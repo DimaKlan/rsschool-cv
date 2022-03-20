@@ -12,3 +12,5 @@
 * ***JS(BASIC+DOM)***
 * ***GIT(BASIC)***
 * ***FIGMA***
+## **EDUCATION**
+* ***University:*** *Brest State Technical University, Electronic Systems Engineer*

@@ -1,7 +1,8 @@
 [DimaKlan]: https://github.com/DimaKlan
 [https://learn.javascript.ru/]: https://learn.javascript.ru/
 
-# ***Dmitry Gritsuk*** ___
+# ***Dmitry Gritsuk***
+___
 ## **CONTACTS**
 * ***Email:*** *dima.klan.99@mail.ru*
 * ***Telegram:*** *@DimaKlan*

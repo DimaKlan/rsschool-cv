@@ -1,4 +1,4 @@
-[GIT]: https://dimaklan.github.io/rsschool-cv/gh-pages/cv
+[DimaKlan]: https://dimaklan.github.io/rsschool-cv/gh-pages/cv
 <!-- This is [GIT] reference-style link. -->
 # ***Dmitry Gritsuk***
 
@@ -6,4 +6,4 @@
 * Email: dima.klan.99@mail.ru
 * Telegram: DimaKlan
 * Discord: DimaKlan
-* GitHub: [GIT]
+* GitHub: [DimaKlan]

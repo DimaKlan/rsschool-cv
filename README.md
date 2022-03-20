@@ -6,4 +6,4 @@ This is [GIT] reference-style link.
 ## **CONTACTS**
 * Email: dima.klan.99@mail.ru
 * Telegram: DimaKlan
-* Discort: DimaKlan
+* Discord: DimaKlan

@@ -1,1 +1,1 @@
-[https://dimaklan.github.io/rsschool-cv/gh-pages/cv] https://dimaklan.github.io/rsschool-cv/gh-pages/cv
+[GIT]: https://dimaklan.github.io/rsschool-cv/gh-pages/cv

@@ -16,4 +16,4 @@
 * ***University:*** *Brest State Technical University, Electronic Systems Engineer*
 ## **LANGUAGES**
 * ***Russian:*** *Native speaker*
-* ***English:*** ***A2*** *(I am currently taking courses)*
+* ***English:*** *A2(I am currently taking courses)*

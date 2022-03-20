@@ -7,7 +7,7 @@
 * ***GitHub:*** *[DimaKlan](https://github.com/DimaKlan)*
 
 ## **ABOUT ME**
-*A year ago I started learning html+css. With the help of YouTube and articles, I learned how to make banal pages. Later I started learning JavaScript(JS) on the site [https://learn.javascript.ru/] (https://learn.javascript.ru/). Studied DOM events and also got acquainted with the basic structure. I also had experience with NodeJS and MySQL*
+*A year ago I started learning html+css. With the help of YouTube and articles, I learned how to make banal pages. Later I started learning JavaScript(JS) on the site [https://learn.javascript.ru/](https://learn.javascript.ru/). Studied DOM events and also got acquainted with the basic structure. I also had experience with NodeJS and MySQL*
 
 ## **SKILLS**
 * ***HTML5***

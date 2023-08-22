@@ -27,7 +27,7 @@ if((pageYOffset > animItemOffset - animItemPoint) && pageYOffset < (animItemOffs
         }
       }
 }
-```            
+``          
 
 ## **SKILLS**
 * ***HTML5***

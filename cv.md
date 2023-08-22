@@ -33,3 +33,10 @@ if(menuIcon.classList.contains('_active')){
 ## **LANGUAGES**
 * ***Russian:*** *Native speaker*
 * ***English:*** *A2(I am currently taking courses)*
+
+* ## **WORKS**
+* ***[https://dimaklan.github.io/CAR-MUSC/](https://dimaklan.github.io/CAR-MUSC/)***
+* ***[https://dimaklan.github.io/BOOSTEDUSA-Landing-/](https://dimaklan.github.io/BOOSTEDUSA-Landing-/)***
+* ***[https://dimaklan.github.io/FreightTransportation/](https://dimaklan.github.io/FreightTransportation/)***
+* ***[https://dimaklan.github.io/DK/](https://dimaklan.github.io/DK/)***
+

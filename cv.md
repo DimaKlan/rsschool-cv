@@ -55,7 +55,7 @@ function setScrollIntoView(top) {
 * ***Russian:*** *Native speaker*
 * ***English:*** *A2(I am currently taking courses)*
 
-* ## **WORKS**
+## **WORKS**
 * ***[https://dimaklan.github.io/CAR-MUSC/](https://dimaklan.github.io/CAR-MUSC/)***
 * ***[https://dimaklan.github.io/BOOSTEDUSA-Landing-/](https://dimaklan.github.io/BOOSTEDUSA-Landing-/)***
 * ***[https://dimaklan.github.io/FreightTransportation/](https://dimaklan.github.io/FreightTransportation/)***

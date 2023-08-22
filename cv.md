@@ -3,7 +3,7 @@
 
 ## **CONTACTS**
 * ***Email:*** *dima.klan.99@mail.ru*
-* ***Telegram:*** *[DimaKlan](https://t.me/DimaKlan)*
+* ***Telegram:*** *[https://t.me/DimaKlan](DimaKlan)*
 * ***Discord:*** *DimaKlan*
 * ***GitHub:*** *[DimaKlan](https://github.com/DimaKlan)*
 

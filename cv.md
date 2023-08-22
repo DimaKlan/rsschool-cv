@@ -1,4 +1,3 @@
-# __[rsschool-cv](https://dimaklan.github.io/rsschool-cv/)__
 
 # ***Dmitry Gritsuk***
 

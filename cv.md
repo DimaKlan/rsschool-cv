@@ -27,7 +27,18 @@ if((pageYOffset > animItemOffset - animItemPoint) && pageYOffset < (animItemOffs
           animItem.classList.remove('_active');
         }
       }
-```    
+```
+
+```javascript
+function setScrollIntoView(top) {
+    const services = document.querySelector('.services');
+    services.scrollIntoView({
+        block: "start",
+        inline: "nearest",
+        behavior: "smooth",
+    });
+}
+```
 
 ## **SKILLS**
 * ***HTML5***

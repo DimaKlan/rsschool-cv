@@ -17,8 +17,9 @@ if(menuIcon.classList.contains('_active')){
   menuIcon.classList.remove('_active');
   menuBody.classList.remove('_active');
 }
-```   
-1. ```javascript
+```
+  
+```javascript
 if((pageYOffset > animItemOffset - animItemPoint) && pageYOffset < (animItemOffset + animItemHeight)) {
         animItem.classList.add('_active');
       } else {
@@ -26,8 +27,7 @@ if((pageYOffset > animItemOffset - animItemPoint) && pageYOffset < (animItemOffs
           animItem.classList.remove('_active');
         }
       }
-}
-``          
+```    
 
 ## **SKILLS**
 * ***HTML5***
